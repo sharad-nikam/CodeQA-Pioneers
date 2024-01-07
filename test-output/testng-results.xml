@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-02T20:07:58 IST" name="Default suite" finished-at="2023-12-02T20:09:12 IST" duration-ms="74268">
+    <groups>
+    </groups>
+    <test started-at="2023-12-02T20:07:58 IST" name="Default test" finished-at="2023-12-02T20:09:12 IST" duration-ms="74268">
+      <class name="com.bookart.testcases.TC_3_Register_SignUp">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.bookart.testcases.TC_3_Register_SignUp@409bf450]" started-at="2023-12-02T20:07:58 IST" name="setup" finished-at="2023-12-02T20:08:57 IST" duration-ms="58190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_Verify_NavigationFlow_from_HomePage_To_SignupPage()[pri:1, instance:com.bookart.testcases.TC_3_Register_SignUp@409bf450]" started-at="2023-12-02T20:08:57 IST" name="TC_Verify_NavigationFlow_from_HomePage_To_SignupPage" finished-at="2023-12-02T20:09:07 IST" duration-ms="10584" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_Verify_NavigationFlow_from_HomePage_To_SignupPage -->
+        <test-method signature="TC_Validating_NavigationOf_SignInpage_from_SignUpPage()[pri:2, instance:com.bookart.testcases.TC_3_Register_SignUp@409bf450]" started-at="2023-12-02T20:09:07 IST" name="TC_Validating_NavigationOf_SignInpage_from_SignUpPage" finished-at="2023-12-02T20:09:08 IST" duration-ms="1101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_Validating_NavigationOf_SignInpage_from_SignUpPage -->
+        <test-method signature="TC_Verify_CustomerSignUp_ForAlready_Registered_Customer()[pri:3, instance:com.bookart.testcases.TC_3_Register_SignUp@409bf450]" started-at="2023-12-02T20:09:08 IST" name="TC_Verify_CustomerSignUp_ForAlready_Registered_Customer" finished-at="2023-12-02T20:09:12 IST" duration-ms="3554" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_Verify_CustomerSignUp_ForAlready_Registered_Customer -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:com.bookart.testcases.TC_3_Register_SignUp@409bf450]" started-at="2023-12-02T20:09:12 IST" name="exit" finished-at="2023-12-02T20:09:12 IST" duration-ms="550" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+      </class> <!-- com.bookart.testcases.TC_3_Register_SignUp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
